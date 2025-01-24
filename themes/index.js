@@ -12,6 +12,12 @@ export const themes = {
     text_color: "434d58",
     bg_color: "fffefe",
   },
+    anjos: {
+    title_color: "800080",
+    icon_color: "800080",
+    text_color: "ffffff",
+    bg_color: "ffad00",
+  },
   transparent: {
     title_color: "006AFF",
     icon_color: "0579C3",
